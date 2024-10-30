@@ -1,0 +1,110 @@
+# Copyright (C) 2016 Moby Blog
+# This file is distributed under the same license as the Moby Blog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moby Blog 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/moby-blog\n"
+"POT-Creation-Date: 2016-05-16 08:56:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-05-16 11:40+0100\n"
+"Last-Translator: Moby Blog <info@mobyblogapp.com>\n"
+"Language-Team: Moby Blog <info@mobyblogapp.com>\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: Italiano\n"
+
+#: singletons/api.php:121
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: singletons/api.php:128
+msgid "Register"
+msgstr ""
+
+#: singletons/api.php:135
+msgid "Settings Tutorial"
+msgstr ""
+
+#: singletons/api.php:142
+msgid "Select Allowed Categories"
+msgstr "Seleziona le categorie consentite"
+
+#: singletons/api.php:156
+msgid "Facebook Comments"
+msgstr ""
+
+#: singletons/api.php:163
+msgid "Disqus Comments"
+msgstr ""
+
+#: singletons/api.php:170
+msgid "Banner"
+msgstr ""
+
+#: singletons/api.php:177
+msgid "Save Settings"
+msgstr "Salva"
+
+#: singletons/resBanners.php:50 singletons/resBanners.php:109
+msgid "with MOBY BLOG"
+msgstr "con MOBY BLOG"
+
+#: singletons/resBanners.php:51
+msgid "FREE"
+msgstr "GRATIS"
+
+#: singletons/resBanners.php:52
+msgid "Follow "
+msgstr "Segui"
+
+#: singletons/resBanners.php:54
+msgid "DOWNLOAD"
+msgstr "SCARICA"
+
+#: singletons/resBanners.php:61
+msgid "on the App Store"
+msgstr "su App Store"
+
+#: singletons/resBanners.php:62
+msgid "in Google Play"
+msgstr "sul Play Store"
+
+#: singletons/resBanners.php:63
+msgid "US"
+msgstr "IT"
+
+#. Plugin Name of the plugin/theme
+msgid "Moby Blog"
+msgstr "Moby Blog"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.mobyblogapp.com"
+msgstr "http://www.mobyblogapp.com/it"
+
+#. Description of the plugin/theme
+msgid ""
+"Moby Blog - One APP for All Your Wordpress Blog! FREE! Are you a Blogger? "
+"Have a WordPress Blog? Turn it for free into a user friendly app for "
+"smartphones and tablets in few minutes and Boost users and mobile visits by "
+"25-60%! Moby Blog is a completely free mobile app that allows you to make "
+"your blog optimized for viewing on mobile devices. It allows your users to "
+"read the latest news from your blog through a user friendly app available "
+"for Android and iOS, at no extra charge. Only few minutes to activate!"
+msgstr ""
+"Moby Blog - La pima App mobile Gratis per tutti i blog Wordpress! Sei un "
+"Blogger? Hai un blog in WordPress? Trasformalo gratuitamente in una comoda "
+"app per smartphone e tablet in pochi minuti ed aumenta il numero di utenti e "
+"le visite! Moby Blog è un’app mobile completamente gratuita che ti permette "
+"di ottimizzare il contenuto ed i post del tuo blog per la visualizzazione su "
+"dispositivi mobile, e permette ai tuoi utenti di leggere le ultime novità "
+"provenienti dal tuo sito attraverso una comoda app disponibile per Android e "
+"iOS, senza alcun costo aggiuntivo."
+
+#. Author of the plugin/theme
+msgid "Restart Labs SRLS"
+msgstr "Restart Labs SRLS"
+
+#. Author URI of the plugin/theme
+msgid "http://www.restartlabs.org/"
+msgstr "Restart Labs SRLS"

@@ -1,0 +1,100 @@
+# Copyright (C) 2016 Moby Blog
+# This file is distributed under the same license as the Moby Blog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moby Blog 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/moby-blog\n"
+"POT-Creation-Date: 2016-05-16 08:56:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: singletons/api.php:121
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: singletons/api.php:128
+msgid "Register"
+msgstr ""
+
+#: singletons/api.php:135
+msgid "Settings Tutorial"
+msgstr ""
+
+#: singletons/api.php:142
+msgid "Select Allowed Categories"
+msgstr ""
+
+#: singletons/api.php:156
+msgid "Facebook Comments"
+msgstr ""
+
+#: singletons/api.php:163
+msgid "Disqus Comments"
+msgstr ""
+
+#: singletons/api.php:170
+msgid "Banner"
+msgstr ""
+
+#: singletons/api.php:177
+msgid "Save Settings"
+msgstr ""
+
+#: singletons/resBanners.php:50 singletons/resBanners.php:109
+msgid "with MOBY BLOG"
+msgstr ""
+
+#: singletons/resBanners.php:51
+msgid "FREE"
+msgstr ""
+
+#: singletons/resBanners.php:52
+msgid "Follow "
+msgstr ""
+
+#: singletons/resBanners.php:54
+msgid "DOWNLOAD"
+msgstr ""
+
+#: singletons/resBanners.php:61
+msgid "on the App Store"
+msgstr ""
+
+#: singletons/resBanners.php:62
+msgid "in Google Play"
+msgstr ""
+
+#: singletons/resBanners.php:63
+msgid "US"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Moby Blog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.mobyblogapp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Moby Blog - One APP for All Your Wordpress Blog! FREE! Are you a Blogger? "
+"Have a WordPress Blog? Turn it for free into a user friendly app for "
+"smartphones and tablets in few minutes and Boost users and mobile visits by "
+"25-60%! Moby Blog is a completely free mobile app that allows you to make "
+"your blog optimized for viewing on mobile devices. It allows your users to "
+"read the latest news from your blog through a user friendly app available "
+"for Android and iOS, at no extra charge. Only few minutes to activate!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Restart Labs SRLS"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.restartlabs.org/"
+msgstr ""
